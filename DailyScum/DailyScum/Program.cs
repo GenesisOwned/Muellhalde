@@ -28,6 +28,7 @@ namespace DailyScum
                 }
             }
 
+
             if (x == 20)
             {
                 Console.Write("Ihre angegebene ganze Zahl ist:");
